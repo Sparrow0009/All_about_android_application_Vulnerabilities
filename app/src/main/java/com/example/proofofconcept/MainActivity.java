@@ -1,3 +1,5 @@
+// This is the Main Activity.
+
 package com.example.proofofconcept;
 
 import android.content.Intent;
